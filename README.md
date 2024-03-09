@@ -1,5 +1,5 @@
 # siwe_minimal_rust
-Minimal implementation of siwe for Rust 
+Minimal implementation of Sign In With Ethereum for Rust 
 
 
 
